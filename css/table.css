@@ -1,0 +1,80 @@
+
+#header
+{
+	width: 300px;
+	height : 100px;
+	position: relative;
+    left: 200px;
+	top:40px;
+	background-image : url(/images/t3.jpg) ;
+}
+#image
+{
+	width: 270px;
+	height : 150px;
+	position: relative;
+	top:40px;
+	background-image : url(/images/t1.jpg) ;
+}
+
+
+#name_box
+{
+	width: 200px;
+	height: 30px;
+	background-color: #33FF99;
+	margin: 5;
+	position: relative;
+        left: 250px;
+        top:45px;
+	
+}
+
+#message_box {
+
+	width: 600px;
+	height: 150px;
+	position: relative;
+ 	left:250px;
+	border-style:dotted;
+	margin: 10px 0px;
+	
+
+}
+
+#time_box {
+	width: 245px;
+	height: 20px;
+	background-color: #6633FF;
+	position: relative;
+	left: 605;
+	bottom:35px;
+	
+}
+#side
+{	width: 280px;
+	height: 1000px;
+	float:left;
+	top:200px;
+	background-color: #000000;
+}
+.body
+{
+	width : 400px ;
+	height : 1700px;
+	position: relative;
+	overflow-x:hidden;
+	overflow-y:auto;
+    left: 250px;
+	background-color: #33FF99;
+}
+#madol{
+	width: 300px;
+	height : 50px;
+	position: relative;
+	top:60px;
+}
+/*.pagination{
+	padding-left: 620px !important;
+	padding-top:200px;
+}*/
